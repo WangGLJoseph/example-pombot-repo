@@ -23,7 +23,7 @@
 
     <!-- Dependencies -->
     <dependencies>
-        <!-- No dependencies initially - pombot will need to add commons-lang3 here-->
+        <!-- No dependencies initially - pombot will need to add commons-lang3 -->
     </dependencies>
 
     <build>
