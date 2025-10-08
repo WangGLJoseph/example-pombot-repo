@@ -24,7 +24,11 @@
     <!-- Dependencies -->
     <dependencies>
         <!-- No dependencies initially - pombot will need to add commons-lang3 -->
-    </dependencies>
+    <dependency>
+  <groupId>org.apache.commons</groupId>
+  <artifactId>commons-lang3</artifactId>
+  <version>3.19.0</version>
+</dependency></dependencies>
 
     <build>
         <plugins>
